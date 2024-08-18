@@ -1,7 +1,7 @@
 # The Last Of Us - Série
 
 <div align="center">
-  <img src="./src/imagens/tlou-1.jpg" alt="The Last Of Us - Imagem" width="800" height="500"/>
+  <img src="./src/imagens/tlou-2.jpg" alt="The Last Of Us - Imagem" width="800" height="500"/>
 </div>
 
 ## Descrição do Projeto
