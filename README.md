@@ -1,7 +1,7 @@
 # Desafio DEV: The Last Of Us
 
 <div align="center">
-  <img src="./src/imagens/tlou-3.jpg" alt="The Last Of Us - Imagem" width="600" height="300"/>
+  <img src="./src/imagens/tlou-3.jpg" alt="The Last Of Us - Imagem" width="600" height="400"/>
 </div>
 
 ## Funcionalidades
