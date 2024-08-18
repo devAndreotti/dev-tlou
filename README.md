@@ -18,6 +18,10 @@
 - **JavaScript**: Controle da funcionalidade do carrossel e interatividade.
 - **Google Fonts**: Fonte customizada para melhor experiência visual.
 
+## Visualize o Projeto
+
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-tlou/).
+
 ## Como Executar
 
 1. Clone o repositório:
