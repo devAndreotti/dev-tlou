@@ -4,12 +4,6 @@
   <img src="./src/imagens/tlou-3.jpg" alt="The Last Of Us - Imagem" width="800" height="500"/>
 </div>
 
-## Descrição do Projeto
-
-Este projeto apresenta uma página sobre a série "The Last Of Us", baseada na famosa franquia de videogames da Naughty Dog. A página inclui um carrossel de imagens destacando cenas icônicas da série, além de uma breve descrição da trama distópica.
-
-O projeto utiliza HTML, CSS e JavaScript para criar uma interface moderna e responsiva.
-
 ## Funcionalidades
 
 - **Carrossel de Imagens**: Exibe automaticamente várias imagens da série, com botões que permitem a navegação manual entre elas.
@@ -70,4 +64,4 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga os passo
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+Este projeto é para fins educacionais, baseado no curso do **Dev em Dobro**. Sinta-se livre para explorar e adaptar.
