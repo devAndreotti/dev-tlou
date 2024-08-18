@@ -1,6 +1,3 @@
-Aqui está o README sugerido para o seu projeto da série "The Last Of Us":
-
-```markdown
 # The Last Of Us - Série
 
 ## Descrição do Projeto
@@ -70,8 +67,3 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga os passo
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
-
-```
-
-### Notas:
-- Esse README fornece instruções claras sobre como executar e contribuir para o projeto, bem como uma descrição completa das funcionalidades e estrutura de arquivos. Certifique-se de que as imagens e arquivos estejam no caminho correto para garantir que o projeto funcione conforme o esperado.
