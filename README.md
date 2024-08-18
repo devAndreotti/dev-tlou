@@ -1,5 +1,9 @@
 # The Last Of Us - Série
 
+<div align="center">
+  <img src="./src/imagens/tlou-1.jpg" alt="The Last Of Us - Imagem" width="800" height="500"/>
+</div>
+
 ## Descrição do Projeto
 
 Este projeto apresenta uma página sobre a série "The Last Of Us", baseada na famosa franquia de videogames da Naughty Dog. A página inclui um carrossel de imagens destacando cenas icônicas da série, além de uma breve descrição da trama distópica.
