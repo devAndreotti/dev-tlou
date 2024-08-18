@@ -16,7 +16,6 @@
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilização da página, incluindo layout responsivo e o design do carrossel.
 - **JavaScript**: Controle da funcionalidade do carrossel e interatividade.
-- **Google Fonts**: Fonte customizada para melhor experiência visual.
 
 ## Visualize o Projeto
 
