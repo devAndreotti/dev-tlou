@@ -1,4 +1,4 @@
-# The Last Of Us - Série
+# Desafio DEV: The Last Of Us
 
 <div align="center">
   <img src="./src/imagens/tlou-3.jpg" alt="The Last Of Us - Imagem" width="800" height="500"/>
