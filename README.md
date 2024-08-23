@@ -47,4 +47,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer 
 
 ## Nota
 
-Este projeto é para fins educacionais, baseado no curso do **Dev em Dobro**. Sinta-se livre para explorar e adaptar.
+Este projeto é para fins educacionais e foi baseado no curso do **Dev em Dobro**. Sinta-se livre para explorar e adaptar.
