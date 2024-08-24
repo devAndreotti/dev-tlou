@@ -16,7 +16,7 @@
 
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-tlou/).
 
-## Tecnologias
+## Tecnologias Empregadas
 
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilização da página, incluindo layout responsivo e o design do carrossel.
