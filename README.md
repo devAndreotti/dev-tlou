@@ -12,15 +12,15 @@
 - **Links Sociais**: Ícones para GitHub e LinkedIn.
 - **Design Responsivo**: Adaptável a dispositivos móveis e desktops.
 
+## Visualize o Projeto
+
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-tlou/).
+
 ## Tecnologias
 
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilização da página, incluindo layout responsivo e o design do carrossel.
 - **JavaScript**: Controle da funcionalidade do carrossel e interatividade.
-
-## Visualize o Projeto
-
-Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-tlou/).
 
 ## Como Executar
 
