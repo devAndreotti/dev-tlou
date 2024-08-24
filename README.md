@@ -2,7 +2,7 @@
 # Desafio DEV: The Last Of Us
 
 <div align="center">
-  <img src="./src/imagens/tlou-3.jpg" alt="The Last Of Us Wallpaper"/>
+  <img src="./src/imagens/tlou-3.jpg" alt="The Last Of Us Banner"/>
 </div>
 
 ## Funcionalidades
@@ -30,10 +30,6 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
    ```
 
 2. Abra o `index.html` no navegador.
-
-## Exemplo de Uso
-
-A página inicial exibe um carrossel de imagens que mostra cenas marcantes da série "The Last Of Us". O carrossel pode ser navegado manualmente através dos botões localizados abaixo das imagens. Na lateral da página, ícones permitem a navegação para as páginas do GitHub e LinkedIn.
 
 ## Contribuição
 
