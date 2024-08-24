@@ -38,6 +38,7 @@ main::after {
   font-size: 24px;
   color: #ffffff;
   line-height: 30px;
+  text-align: justify;
 }
 
 .botoes-carrossel {
