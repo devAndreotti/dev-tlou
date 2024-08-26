@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# Desafio DEV: The Last Of Us
+# 🧪 Desafio DEV: The Last Of Us
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
