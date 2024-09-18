@@ -23,8 +23,8 @@
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-tlou/).
 
 ## 🛠 Tecnologias Empregadas
-- **HTML5**: Estrutura da página.
-- **CSS3**: Estilização da página, incluindo layout responsivo e o design do carrossel.
+- **HTML**: Estrutura da página.
+- **CSS**: Estilização da página, incluindo layout responsivo e o design do carrossel.
 - **JavaScript**: Controle da funcionalidade do carrossel e interatividade.
 
 ## 🚀 Como Executar
@@ -44,3 +44,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer 
 
 ## 📝 Nota
 Este projeto é para fins educacionais e foi baseado no curso do **Dev em Dobro**. Sinta-se livre para explorar e adaptar.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
